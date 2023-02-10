@@ -1,1 +1,3 @@
-# Random-Hex-Colors-
+# Random-Hex-Colors
+
+hex-color.png
